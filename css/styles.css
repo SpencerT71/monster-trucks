@@ -1,7 +1,7 @@
 /*color pallets and typography 
 font-family: 'Bree Serif', serif;
-primary color: #F29705
-secondary color: #CC1481
+primary color: red
+secondary color: yellow
 
 */
 
@@ -9,7 +9,7 @@ secondary color: #CC1481
 
 body {
    background-color: blue;
-    font-family: 'Bree Serif', serif;
+   font-family: 'Anton', sans-serif;
 }
 
 /*Images*/
@@ -38,6 +38,7 @@ p, blockquote {
 nav li{
     display: inline;
 }
+
 
 a:link {
     color: yellow;
