@@ -8,7 +8,7 @@ secondary color: #CC1481
 /*Universal*/
 
 body {
-   background: linear-gradient(90deg, #004FF9 10%, #FFF94C 90%); 
+   background-color: blue;
     font-family: 'Bree Serif', serif;
 }
 
@@ -26,9 +26,19 @@ footer p {
 }
 
 h1, h2{
-    color: #CC1481
+    color: yellow;
 }
 
 p, blockquote {
-    color: #F29705
+    color: red
+}
+
+/*Nav*/
+
+nav li{
+    display: inline;
+}
+
+a:link {
+    color: yellow;
 }
